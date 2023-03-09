@@ -1,4 +1,4 @@
-fn main(sum : u32, a: [u32; 9]) {
+fn main(sum : u4, a: [u4; 9]) {
      // horizontal
     constrain a[0] + a[1] + a[2] == sum;
     constrain a[3] + a[4] + a[5] == sum;
